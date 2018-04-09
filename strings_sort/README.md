@@ -1,3 +1,11 @@
-# PHP generator
+##Задание
+####Нестандартная сортировка
+Пользователь вводит в поле textarea несколько строк текста. На выходе он
+получает исходные строки, а также строки, отличающиеся от исходных
+случайным порядком слов (по 1 на исходную). Строки должны быть
+отсортированы по второму слову строки, например:  
 
-##### Practical task for the 2018 spring PHP course in 42 lab.
+lose allways Bad guys  
+Happy birthday mister president  
+mister birthday president Happy  
+Bad guys allways lose  
